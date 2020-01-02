@@ -17,7 +17,7 @@ Design, code, and present a GUI game within a group of 1 to 5. During the develo
 
 ## Game
 ### Sherlock Holmes 221B Baker Street Board Game
-* 2 Player game
+* 2 Player game (Can add more later)
 * Before the game starts the player is presented a case with 1-3 questions
 * You start at 221B
 * Player roles a dice (1-6), the player chooses which square to move to
@@ -36,9 +36,16 @@ Design, code, and present a GUI game within a group of 1 to 5. During the develo
 * Player gets to role the dice and move to any direction they choose
 * 30 Second time limit for each clue given
 * Present the clue for 1 player only
+* Highlight only squares where the player can move
 
 ### Optional Rules:
 * There may be a location where a clue is not provided
 
+#### Board Settings:
+* Board size is __23x23 squares__
+* There are __14 locations__
+* Each location has __1 entrance__
+
 ### If there is time (For extra SOBs)
 * Add Racket library which allows LAN play
+
