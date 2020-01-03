@@ -1,4 +1,4 @@
-# Comp-Sci-Second-Project
+# Racket-GUI-Board-Game
 
 ## Project Overview
 Design, code, and present a GUI game within a group of 1 to 5. During the development phase, a   prototype software will be used to allow a deeper understanding of the final product.   Racket will be the language used to create the game. Since the game will have GUI-the library will be imported `(require racket / gui / base)` - the base library will have the required class, configuration, and method bindings specified in this manual. `#lang racket / gui` — The language of racket / gui integrates all racket code bindings with racket / gui / base and racket / draw plugins.
